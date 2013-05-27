@@ -1,7 +1,8 @@
 package comparable.son;
 
 public class Song implements Comparable<Song>{
-	
+
+//adding comments	
 	String title;
 	String artist;
 	String rating;
